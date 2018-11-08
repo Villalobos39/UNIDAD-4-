@@ -1,0 +1,7 @@
+H:\JUEVES\U4_VillalobosPerez\ArbolBinario\obj\Debug\ArbolBinario.csprojAssemblyReference.cache
+H:\JUEVES\U4_VillalobosPerez\ArbolBinario\obj\Debug\ArbolBinario.csproj.CoreCompileInputs.cache
+H:\JUEVES\U4_VillalobosPerez\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+H:\JUEVES\U4_VillalobosPerez\ArbolBinario\bin\Debug\ArbolBinario.exe
+H:\JUEVES\U4_VillalobosPerez\ArbolBinario\bin\Debug\ArbolBinario.pdb
+H:\JUEVES\U4_VillalobosPerez\ArbolBinario\obj\Debug\ArbolBinario.exe
+H:\JUEVES\U4_VillalobosPerez\ArbolBinario\obj\Debug\ArbolBinario.pdb
