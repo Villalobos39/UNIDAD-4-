@@ -1,0 +1,7 @@
+H:\LUNES\AG-U4-1-VILLALOBOS\ArbolGenerico\bin\Debug\ArbolGenerico.exe.config
+H:\LUNES\AG-U4-1-VILLALOBOS\ArbolGenerico\bin\Debug\ArbolGenerico.exe
+H:\LUNES\AG-U4-1-VILLALOBOS\ArbolGenerico\bin\Debug\ArbolGenerico.pdb
+H:\LUNES\AG-U4-1-VILLALOBOS\ArbolGenerico\obj\Debug\ArbolGenerico.csprojAssemblyReference.cache
+H:\LUNES\AG-U4-1-VILLALOBOS\ArbolGenerico\obj\Debug\ArbolGenerico.csproj.CoreCompileInputs.cache
+H:\LUNES\AG-U4-1-VILLALOBOS\ArbolGenerico\obj\Debug\ArbolGenerico.exe
+H:\LUNES\AG-U4-1-VILLALOBOS\ArbolGenerico\obj\Debug\ArbolGenerico.pdb
